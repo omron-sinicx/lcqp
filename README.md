@@ -22,6 +22,8 @@ cd examples
 python3 pivot.py
 ```
 
+## LICENSE
+[The MIT License (MIT)](https://github.com/omron-sinicx/lcqp/blob/main/LICENSE).
 
 ## References 
 Sotaro Katayama, Tatsunori Taniai, Kazutoshi Tanaka, ``Quasistatic contact-rich manipulation viaa linear complementarity quadratic programming'', 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022), pp. 203--210, 2022.
