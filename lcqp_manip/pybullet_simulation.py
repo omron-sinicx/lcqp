@@ -1,10 +1,13 @@
+#
+# Copyright (c) 2022 OMRON SINIC X Corporation
+#
+
 import pybullet
 from datetime import datetime
 import pybullet_data
 import time
 import math
 import numpy as np
-from robot_descriptions import iiwa_description
 
 import os
 from . import utils

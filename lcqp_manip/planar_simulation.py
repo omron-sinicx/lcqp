@@ -1,3 +1,7 @@
+#
+# Copyright (c) 2022 OMRON SINIC X Corporation
+#
+
 import math
 import numpy as np
 from .lcqp import LCQP

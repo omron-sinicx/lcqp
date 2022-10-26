@@ -1,3 +1,7 @@
+#
+# Copyright (c) 2022 OMRON SINIC X Corporation
+#
+
 import numpy as np
 
 class CostCollection:

@@ -1,5 +1,8 @@
+#
+# Copyright (c) 2022 OMRON SINIC X Corporation
+#
+
 import numpy as np
-import casadi
 
 class ConfigurationCost:
     """ Configuration space cost. """

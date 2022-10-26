@@ -1,8 +1,11 @@
+#
+# Copyright (c) 2022 OMRON SINIC X Corporation
+#
+
 import pybullet
 import math
 import os 
 import numpy as np
-from robot_descriptions import iiwa_description
 
 from . import projection
 from scipy.spatial.transform import Rotation

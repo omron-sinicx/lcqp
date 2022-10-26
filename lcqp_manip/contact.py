@@ -1,3 +1,7 @@
+#
+# Copyright (c) 2022 OMRON SINIC X Corporation
+#
+
 import casadi
 import numpy as np
 
