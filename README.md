@@ -1,3 +1,5 @@
+Copyright (c) 2022 OMRON SINIC X Corporation
+
 # lcqp-manip
 Contact-rich manipulation via linear-complementarity quadratic programming. 
 
